@@ -1,0 +1,3 @@
+# Exclude third-party Thai font packs
+resourcepacks/*FONTTHAI*.zip
+resourcepacks/ThaiFontFix*.zip

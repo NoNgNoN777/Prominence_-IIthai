@@ -1,0 +1,11 @@
+{
+    "enchantment.the_bumblezone.comb_cutter.desc":  "ขุดรวงผึ้ง รังผึ้ง และบล็อกขี้ผึ้งได้เร็วขึ้น\nเพิ่มผลผลิตเป็น 2 เท่าเมื่อขุดบล็อก BeeNest หรือ BeeHive",
+    "enchantment.the_bumblezone.potent_poison.desc":  "สร้างพิษเมื่อโจมตีโดนมอนสเตอร์ที่ไม่ใช่ Undead\nระดับที่สูงขึ้นจะเพิ่มระยะเวลาและความรุนแรงของพิษ",
+    "enchantment.the_bumblezone.neurotoxins.desc":  "มีโอกาสทำให้ศัตรูที่ไม่ใช่ Undead และไม่ใช่โกเลมติดอัมพาต (Paralyzed)\nศัตรูที่มีพลังชีวิตสูงจะมีโอกาสติดอัมพาตลดลง",
+    "enchantment.the_bumblezone.hive_lifeline.desc":  "ความเสียหายใดๆ ที่ผู้เล่นได้รับจะถูกส่งต่อไปยังผึ้งที่อยู่ใกล้เคียงแทน! เกราะชิ้นที่ติดเอนชานต์นี้จะมีคูลดาวน์สั้นๆ หลังส่งผ่านดาเมจ",
+    "effect.the_bumblezone.wrath_of_the_hive.description":  "ปลุกความเกรี้ยวกราดของผึ้งทั้งหมดในมิติ The Bumblezone ให้บินเข้ามารุมโจมตีคุณ!\n\nบล็อก Honeycomb Brood ในบริเวณใกล้เคียงจะเติบโตเร็วขึ้นและเสกผึ้งออกมารวดเร็วขึ้นด้วย",
+    "effect.the_bumblezone.protection_of_the_hive.description":  "ทำให้ผึ้งที่กำลังโกรธรอบตัวสงบลง หากผู้ที่ติดบัฟนี้ถูกโจมตี ผึ้งโดยรอบจะหันไปรุมโจมตีผู้ที่ทำร้ายทันที!\n\nและยังช่วยป้องกันไม่ให้ติดสถานะ Wrath of the Hive อีกด้วย",
+    "effect.the_bumblezone.beenergized.description":  "เพิ่มความเร็วในการบินของสิ่งมีชีวิตที่บินได้ ผู้เล่นที่สวมใส่ Bumblebee Chestplate จะบินได้ไกลและนานขึ้น",
+    "effect.the_bumblezone.hidden.description":  "ลดระยะการตรวจจับของมอนสเตอร์ดุร้าย และทำให้ฝูงผึ้งที่กำลังโกรธหลงทิศตามหาคุณไม่เจอ",
+    "effect.the_bumblezone.paralyzed.description":  "ทำให้สิ่งมีชีวิตขยับตัวไม่ได้ ปิดการทำงานของ AI และการเคลื่อนไหวทั้งหมด"
+}

@@ -1,0 +1,19 @@
+{
+    "spell.forcemaster_rpg.stonehand.description":  "มอบเอฟเฟกต์ Stonehand ให้แก่ผู้ร่ายเป็นเวลา {effect_duration} วินาที มีโอกาสทำให้เป้าหมายติดสถานะ Stun เมื่อโจมตีด้วยสนับมือ",
+    "spell.forcemaster_rpg.asal.description":  "หมัดรวบรวมพลังปราณขั้นสุดยอด สร้างความเสียหาย {damage_1} Arcane Damage และ {damage_2} Physical Damage แต่ทำให้ผู้ร่ายเหนื่อยล้าชั่วขณะ",
+    "spell.forcemaster_rpg.barq_esna.description":  "ทำให้เป้าหมายเปราะบางต่อความเสียหาย Arcane Damage ลดพลังโจมตีของเป้าหมาย และเพิ่มโอกาสคริติคอลเมื่อโจมตีเป้าหมายนั้น",
+    "spell.forcemaster_rpg.burstcrack.description":  "ทุบพื้นดินอย่างรุนแรง สร้างความเสียหาย {damage_1} Arcane Damage และ {damage_2} Physical Damage พร้อมงัดศัตรูให้ลอยขึ้นฟ้า",
+    "spell.forcemaster_rpg.belial_smashing.description":  "พุ่งทะยานไปข้างหน้า ชนกระแทกศัตรูให้ลอยขึ้นและสร้างความเสียหาย {damage_1} Arcane Damage และ {damage_2} Physical Damage",
+    "spell.forcemaster_rpg.sonichand.description":  "ระดมชกอากาศอย่างต่อเนื่องสร้างคลื่นสุญญากาศ สร้างความเสียหาย {damage_1} Arcane Damage และ {damage_2} Physical Damage",
+    "spell.forcemaster_rpg.arcane_blast.description":  "ชาร์จคลื่นพลังยิงออกไปทะลุผ่านเป้าหมายได้ {pierce} ตัว สร้างความเสียหาย {damage} Arcane Damage",
+    "advancements.more_rpg_content.knuckle.description":  "ได้รับสนับมือ Iron Knuckle!",
+    "advancements.more_rpg_content.forcemaster_spells.description":  "รวบรวมเวทมนตร์ของสาย Monk ครบทุกบท",
+    "advancements.more_rpg_content.phasleb.description":  "รวบรวมชุดเกราะ Phasleb ครบทุกชิ้น",
+    "spell.forcemaster_rpg.stonehand.name":  "§fStonehand",
+    "spell.forcemaster_rpg.asal.name":  "§fAsalraalaikum",
+    "spell.forcemaster_rpg.barq_esna.name":  "§fBaraqijal Esna",
+    "spell.forcemaster_rpg.burstcrack.name":  "§fBurst Crack",
+    "spell.forcemaster_rpg.belial_smashing.name":  "§fBelial Smashing",
+    "spell.forcemaster_rpg.sonichand.name":  "§fSonichand",
+    "spell.forcemaster_rpg.arcane_blast.name":  "§fArcane Blast"
+}

@@ -1,0 +1,156 @@
+{
+    "damage":  {
+                   "title":  "§f弄 §6+5% §7Damage dealt by §6Ash\u0027edar",
+                   "frame":  {
+                                 "type":  "texture",
+                                 "data":  {
+                                              "unlocked":  "prominent_talents:textures/frames/diamond_selected.png",
+                                              "available":  "prominent_talents:textures/frames/diamond.png"
+                                          }
+                             },
+                   "icon":  {
+                                "type":  "texture",
+                                "data":  {
+                                             "texture":  "prominent:textures/spell/sunstrike.png"
+                                         }
+                            },
+                   "rewards":  [
+                                   {
+                                       "type":  "puffish_skills:attribute",
+                                       "data":  {
+                                                    "attribute":  "prominent:artifact_damage",
+                                                    "value":  0.05,
+                                                    "operation":  "addition"
+                                                }
+                                   }
+                               ],
+                   "editor-color":  "#ff00a6",
+                   "metadata":  {
+                                    "icon":  "vt5q3v2tr9v4ow8e"
+                                }
+               },
+    "atkspeed":  {
+                     "title":  "§f籠 §e+5% §7Haste",
+                     "frame":  {
+                                   "type":  "texture",
+                                   "data":  {
+                                                "unlocked":  "prominent_talents:textures/frames/diamond_selected.png",
+                                                "available":  "prominent_talents:textures/frames/diamond.png"
+                                            }
+                               },
+                     "icon":  {
+                                  "type":  "texture",
+                                  "data":  {
+                                               "texture":  "prominent:textures/spell/darkening.png"
+                                           }
+                              },
+                     "rewards":  [
+                                     {
+                                         "type":  "puffish_skills:attribute",
+                                         "data":  {
+                                                      "attribute":  "generic.attack_speed",
+                                                      "value":  0.05,
+                                                      "operation":  "multiply_total"
+                                                  }
+                                     }
+                                 ],
+                     "editor-color":  "#ff00a6",
+                     "metadata":  {
+                                      "icon":  "vt5q3v2tr9v4ow8e"
+                                  }
+                 },
+    "infusion_etyr":  {
+                          "title":  "§f鹿 §6Burning Wrath",
+                          "description":  "§7ผสานพลังแห่งดาบ §cAsh §7เข้ากับแร่บริสุทธิ์ Etyr มอบความต้านทานการแปดเปื้อนและเพิ่มความเสียหายไฟที่ทำได้โดยดาบ Ash\n \n§fꬁ §2+20 §7Corruption Resistance\n§f弄 §6+5% §7Physical Damage\n§f縷 §6+10% §7Fire Power",
+                          "size":  1.5,
+                          "frame":  {
+                                        "type":  "texture",
+                                        "data":  {
+                                                     "unlocked":  "prominent_talents:textures/frames/diamond_selected.png",
+                                                     "available":  "prominent_talents:textures/frames/diamond.png"
+                                                 }
+                                    },
+                          "icon":  {
+                                       "type":  "texture",
+                                       "data":  {
+                                                    "texture":  "prominent:textures/spell/solar_prominence.png"
+                                                }
+                                   },
+                          "rewards":  [
+                                          {
+                                              "type":  "puffish_skills:attribute",
+                                              "data":  {
+                                                           "attribute":  "eldritch_end:corruption_resistance",
+                                                           "value":  20,
+                                                           "operation":  "addition"
+                                                       }
+                                          },
+                                          {
+                                              "type":  "puffish_skills:attribute",
+                                              "data":  {
+                                                           "attribute":  "generic.attack_damage",
+                                                           "value":  0.05,
+                                                           "operation":  "multiply_base"
+                                                       }
+                                          },
+                                          {
+                                              "type":  "puffish_skills:attribute",
+                                              "data":  {
+                                                           "attribute":  "spell_power:fire",
+                                                           "value":  0.10,
+                                                           "operation":  "multiply_base"
+                                                       }
+                                          }
+                                      ],
+                          "metadata":  {
+                                           "icon":  "n241yslto644cv8k"
+                                       }
+                      },
+    "infusion_corruption":  {
+                                "title":  "§f鹿 §9Night\u0027s Embrace",
+                                "description":  "§7ปลดปล่อยความมืดมิดแห่งดาบ §dEdar §7และอ้าแขนรับความแปดเปื้อนแห่งความว่างเปล่า สร้างความเสียหาย Arcane Damage รุนแรงยิ่งขึ้น\n \n§fꦘ §9+20§7 Corruption\n§f籠 §e+10% §7Attack Speed\n§f陋 §d+10% §7Arcane Power",
+                                "size":  1.5,
+                                "frame":  {
+                                              "type":  "texture",
+                                              "data":  {
+                                                           "unlocked":  "prominent_talents:textures/frames/diamond_selected.png",
+                                                           "available":  "prominent_talents:textures/frames/diamond.png"
+                                                       }
+                                          },
+                                "icon":  {
+                                             "type":  "texture",
+                                             "data":  {
+                                                          "texture":  "prominent:textures/spell/moonlight_nova.png"
+                                                      }
+                                         },
+                                "rewards":  [
+                                                {
+                                                    "type":  "puffish_skills:attribute",
+                                                    "data":  {
+                                                                 "attribute":  "eldritch_end:corruption",
+                                                                 "value":  20,
+                                                                 "operation":  "addition"
+                                                             }
+                                                },
+                                                {
+                                                    "type":  "puffish_skills:attribute",
+                                                    "data":  {
+                                                                 "attribute":  "generic.attack_speed",
+                                                                 "value":  0.10,
+                                                                 "operation":  "multiply_base"
+                                                             }
+                                                },
+                                                {
+                                                    "type":  "puffish_skills:attribute",
+                                                    "data":  {
+                                                                 "attribute":  "spell_power:arcane",
+                                                                 "value":  0.10,
+                                                                 "operation":  "multiply_base"
+                                                             }
+                                                }
+                                            ],
+                                "metadata":  {
+                                                 "icon":  "eqvex0gqoc0c3krb"
+                                             }
+                            }
+}

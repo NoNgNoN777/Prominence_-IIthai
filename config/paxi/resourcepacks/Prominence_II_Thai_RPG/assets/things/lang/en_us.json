@@ -1,0 +1,74 @@
+{
+    "item.things.hardening_catalyst.tooltip":  "นำไปผสานในทั่งตีเหล็ก (Anvil) เพื่อทำให้ไอเทมชิ้นใดก็ได้ไม่มีวันพัง (Unbreakable)",
+    "item.things.container_key.tooltip":  "ใช้สำหรับล็อกกล่องเก็บของ (กดย่อง+คลิกเพื่อล็อก/ปลดล็อก) ต้องใช้กุญแจนี้ในการเปิดกล่องที่ถูกล็อกไว้",
+    "item.things.ender_pouch.tooltip":  [
+                                            {
+                                                "text":  "กด ",
+                                                "color":  "gray"
+                                            },
+                                            {
+                                                "index":  0,
+                                                "color":  "white"
+                                            },
+                                            " เพื่อเปิดช่องเก็บของ Ender Chest"
+                                        ],
+    "item.things.monocle.tooltip":  "มอบสถานะมองเห็นในที่มืด (Night Vision) อย่างถาวร",
+    "item.things.moss_necklace.tooltip":  "มอบสถานะ Regeneration II เมื่ออยู่ในที่ที่มีแสงสว่าง",
+    "item.things.placebo.tooltip":  "มีโอกาส 25%% ที่จะไม่เสียยาโพชั่นเมื่อดื่มขณะสวมใส่",
+    "item.things.displacement_tome.tooltip":  "ตำราเวทมนตร์สำหรับเทเลพอร์ต คลิกขวาด้วย Ender Pearl เพื่อชาร์จพลังงาน",
+    "item.things.displacement_tome.tooltip.charges":  [
+                                                          {
+                                                              "text":  "จำนวนชาร์จ: ",
+                                                              "color":  "gray"
+                                                          },
+                                                          {
+                                                              "index":  0,
+                                                              "color":  "#5800FF"
+                                                          }
+                                                      ],
+    "item.things.mining_gloves.tooltip":  "มอบสถานะ Haste II อย่างถาวร",
+    "item.things.riot_gauntlet.tooltip":  "มอบสถานะ Strength อย่างถาวร",
+    "item.things.infernal_scepter.tooltip":  "ยิงลูกไฟออกไปโดยใช้ Fire Charge เป็นกระสุน",
+    "item.things.hades_crystal.tooltip":  "มอบสถานะ Fire Resistance อย่างถาวร สวมใส่คู่กับ §fWax Gland §7เพื่อความสุดยอดยิ่งขึ้น",
+    "item.things.enchanted_wax_gland.tooltip":  "ทำให้คุณลอยตัวในน้ำ และพุ่งตัวได้เร็วสุดๆ",
+    "item.things.item_magnet.tooltip":  [
+                                            {
+                                                "text":  "⚡ ",
+                                                "color":  "#8000ff"
+                                            },
+                                            {
+                                                "text":  "พลังงาน: ",
+                                                "color":  "gray"
+                                            },
+                                            {
+                                                "index":  0,
+                                                "color":  "dark_gray"
+                                            }
+                                        ],
+    "item.things.rabbit_foot_charm.tooltip":  "มอบสถานะ Jump Boost II อย่างถาวร",
+    "item.things.luck_of_the_irish.tooltip":  "เปลี่ยนผลของมันฝรั่งพิษ (Poisonous Potato) ให้กลายเป็นเหมือนแอปเปิลทองคำ (Golden Apple)",
+    "item.things.socks.tooltip":  [
+                                      "เพิ่มความเร็วในการเดิน และเลือกเปิด Jump Boost พร้อมก้าวขึ้นบล็อกอัตโนมัติได้ กด ",
+                                      {
+                                          "index":  0,
+                                          "color":  "white"
+                                      },
+                                      " เพื่อสลับเปิด/ปิด Jump Boost"
+                                  ],
+    "item.things.arm_extender.tooltip":  "เพิ่มระยะเอื้อมมือของคุณขึ้นอีก 2 บล็อก",
+    "item.things.shock_absorber.tooltip":  "ลดความเสียหายจากการตกจากที่สูงลง 20%% (สูงสุด 8 ดวงใจ) และลดความเสียหายจากการชนกระแทกลง 75%%",
+    "item.things.broken_watch.tooltip":  "เพิ่มระยะเวลาของเอฟเฟกต์สถานะต่างๆ ขึ้น 50%%",
+    "item.things.empty_agglomeration.tooltip":  "นำไปรวมกับเครื่องประดับ Trinket 2 ชิ้นที่ใช้ช่องสวมใส่เดียวกันเพื่อหลอมรวมความสามารถเข้าด้วยกัน",
+    "text.things.tooltip_hint":  [
+                                     {
+                                         "text":  "กด ",
+                                         "color":  "gray"
+                                     },
+                                     {
+                                         "text":  "SHIFT",
+                                         "color":  "gold"
+                                     },
+                                     " ค้างไว้เพื่อดูข้อมูลเพิ่มเติม"
+                                 ],
+    "enchantment.things.retribution.desc":  "มอบบัฟ Strength ให้แก่ผู้ใช้เมื่อยกโล่ป้องกันการโจมตีสำเร็จ"
+}

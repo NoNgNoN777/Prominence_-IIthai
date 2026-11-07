@@ -1,0 +1,8 @@
+{
+    "enchantment.extraspellattributes.suppression.desc":  "เพิ่มโอกาสต้านทานความเสียหายเวทมนตร์ (Suppress) 4% ต่อระดับ โดยเวทที่ถูก Suppress จะสร้างดาเมจลดลง 50%",
+    "enchantment.extraspellattributes.defiance.desc":  "+0.25 ละเว้นความเสียหายที่ได้รับต่อระดับ (มีผลตอบแทนลดลงตามระดับ)",
+    "enchantment.extraspellattributes.warding.desc":  "+1 Reabsorption ต่อระดับ",
+    "enchantment.extraspellattributes.spellbreak.desc":  "เพิ่มโอกาสละเว้นความเสียหายเวทมนตร์ที่ถูก Suppress 4% ต่อระดับ (สูงสุด 75%)",
+    "enchantment.extraspellattributes.glancingblow.desc":  "เพิ่มโอกาสที่การโจมตีที่เข้ามาจะเฉียด (Glancing Blow) 4% ต่อระดับ โดยการโจมตีที่เฉียดจะเบาลง 35%",
+    "enchantment.extraspellattributes.battlerouse.desc":  "+4% ของความเสียหายที่ได้รับจะฟื้นฟูเป็นพลังชีวิตในช่วงเวลา 4 วินาทีถัดไป ต่อระดับ"
+}

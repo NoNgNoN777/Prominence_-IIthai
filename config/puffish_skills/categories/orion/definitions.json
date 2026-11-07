@@ -1,0 +1,315 @@
+{
+    "oriondamage":  {
+                        "size":  0.66,
+                        "title":  "§f凌 §9+3% §7Damage dealt by §5Orion",
+                        "frame":  {
+                                      "type":  "texture",
+                                      "data":  {
+                                                   "unlocked":  "prominent_talents:textures/frames/circle_selected.png",
+                                                   "available":  "prominent_talents:textures/frames/circle.png"
+                                               }
+                                  },
+                        "icon":  {
+                                     "type":  "texture",
+                                     "data":  {
+                                                  "texture":  "prominent:textures/icon/talent_tree/artifacts/orion/icon_1.png"
+                                              }
+                                 },
+                        "rewards":  [
+                                        {
+                                            "type":  "puffish_skills:attribute",
+                                            "data":  {
+                                                         "attribute":  "prominent:artifact_damage",
+                                                         "value":  0.03,
+                                                         "operation":  "addition"
+                                                     }
+                                        }
+                                    ],
+                        "editor-color":  "#ff00a6",
+                        "metadata":  {
+                                         "icon":  "vt5q3v2tr9v4ow8e"
+                                     }
+                    },
+    "drawspeed":  {
+                      "size":  0.66,
+                      "title":  "§f凌 §2+3% §7Draw Speed",
+                      "frame":  {
+                                    "type":  "texture",
+                                    "data":  {
+                                                 "unlocked":  "prominent_talents:textures/frames/circle_selected.png",
+                                                 "available":  "prominent_talents:textures/frames/circle.png"
+                                             }
+                                },
+                      "icon":  {
+                                   "type":  "texture",
+                                   "data":  {
+                                                "texture":  "prominent:textures/icon/talent_tree/artifacts/orion/icon_2.png"
+                                            }
+                               },
+                      "rewards":  [
+                                      {
+                                          "type":  "puffish_skills:attribute",
+                                          "data":  {
+                                                       "attribute":  "ranged_weapon:haste",
+                                                       "value":  0.03,
+                                                       "operation":  "multiply_base"
+                                                   }
+                                      }
+                                  ],
+                      "editor-color":  "#ff00a6",
+                      "metadata":  {
+                                       "icon":  "uwp9malwyq3p52ds"
+                                   }
+                  },
+    "pledge+algjebbah":  {
+                             "title":  "§dPledge to: §eAlgjebbah",
+                             "description":  "§7ถวายสัตย์ปฏิญาณพลังแห่ง §5Orion §7ต่อดวงดาว Algjebbah เพื่อรับพรแห่งการคุ้มครอง\n \n§fꬁ§2 +20 §7Corruption Resistance\n \n§f鹿 §eAlgjebbah\u0027s Gift\n§7ฟื้นฟูพลังชีวิต 5% ของพลังชีวิตสูงสุดเมื่อคุณใช้สกิลจากตำราเวทสายธนูเล่มใดก็ได้",
+                             "size":  1.5,
+                             "frame":  {
+                                           "type":  "texture",
+                                           "data":  {
+                                                        "unlocked":  "prominent_talents:textures/frames/diamond_selected.png",
+                                                        "available":  "prominent_talents:textures/frames/diamond.png"
+                                                    }
+                                       },
+                             "icon":  {
+                                          "type":  "texture",
+                                          "data":  {
+                                                       "texture":  "prominent:textures/item/artifacts/orion/star_s4.png"
+                                                   }
+                                      },
+                             "rewards":  [
+                                             {
+                                                 "type":  "puffish_skills:attribute",
+                                                 "data":  {
+                                                              "attribute":  "eldritch_end:corruption_resistance",
+                                                              "value":  20,
+                                                              "operation":  "addition"
+                                                          }
+                                             },
+                                             {
+                                                 "type":  "puffish_skills:attribute",
+                                                 "data":  {
+                                                              "attribute":  "prominent:artifact_phase",
+                                                              "value":  1,
+                                                              "operation":  "addition"
+                                                          }
+                                             }
+                                         ],
+                             "metadata":  {
+                                              "icon":  "n241yslto644cv8k"
+                                          }
+                         },
+    "pledge+mintaka":  {
+                           "title":  "§dPledge to: §bMintaka",
+                           "description":  "§7ถวายสัตย์ปฏิญาณพลังแห่ง §5Orion §7ต่อดวงดาว Mintaka เพื่อรับพรแห่งความเยือกแข็ง\n \n§f勒§b +10 §7Frost Power\n \n§f鹿 §bMintaka\u0027s Gift\n§7เพิ่มความเสียหายของสกิลที่ร่ายจากตำราเวท §bMintaka\u0027s Fright§7",
+                           "size":  1.5,
+                           "frame":  {
+                                         "type":  "texture",
+                                         "data":  {
+                                                      "unlocked":  "prominent_talents:textures/frames/diamond_selected.png",
+                                                      "available":  "prominent_talents:textures/frames/diamond.png"
+                                                  }
+                                     },
+                           "icon":  {
+                                        "type":  "texture",
+                                        "data":  {
+                                                     "texture":  "prominent:textures/item/artifacts/orion/star_s4.png"
+                                                 }
+                                    },
+                           "rewards":  [
+                                           {
+                                               "type":  "puffish_skills:attribute",
+                                               "data":  {
+                                                            "attribute":  "spell_power:frost",
+                                                            "value":  10,
+                                                            "operation":  "addition"
+                                                        }
+                                           },
+                                           {
+                                               "type":  "puffish_skills:attribute",
+                                               "data":  {
+                                                            "attribute":  "prominent:artifact_phase",
+                                                            "value":  2,
+                                                            "operation":  "addition"
+                                                        }
+                                           }
+                                       ],
+                           "metadata":  {
+                                            "icon":  "n241yslto644cv8k"
+                                        }
+                       },
+    "pledge+alnilam":  {
+                           "title":  "§dPledge to: §cAlnilam",
+                           "description":  "§7ถวายสัตย์ปฏิญาณพลังแห่ง §5Orion §7ต่อดวงดาว Alnilam เพื่อรับพรแห่งความแม่นยำสังหาร\n \n§f凌§2 +5 §7Ranged Damage\n§f凌§2 +10% §7Draw Speed\n \n§f鹿 §cAlnilam\u0027s Gift\n§7เพิ่มความเสียหายของสกิลที่ร่ายจากตำราเวท §cAlnilam\u0027s Sight§7",
+                           "size":  1.5,
+                           "frame":  {
+                                         "type":  "texture",
+                                         "data":  {
+                                                      "unlocked":  "prominent_talents:textures/frames/diamond_selected.png",
+                                                      "available":  "prominent_talents:textures/frames/diamond.png"
+                                                  }
+                                     },
+                           "icon":  {
+                                        "type":  "texture",
+                                        "data":  {
+                                                     "texture":  "prominent:textures/item/artifacts/orion/star_s4.png"
+                                                 }
+                                    },
+                           "rewards":  [
+                                           {
+                                               "type":  "puffish_skills:attribute",
+                                               "data":  {
+                                                            "attribute":  "ranged_weapon:haste",
+                                                            "value":  0.10,
+                                                            "operation":  "multiply_base"
+                                                        }
+                                           },
+                                           {
+                                               "type":  "puffish_skills:attribute",
+                                               "data":  {
+                                                            "attribute":  "ranged_weapon:damage",
+                                                            "value":  5,
+                                                            "operation":  "addition"
+                                                        }
+                                           },
+                                           {
+                                               "type":  "puffish_skills:attribute",
+                                               "data":  {
+                                                            "attribute":  "prominent:artifact_phase",
+                                                            "value":  3,
+                                                            "operation":  "addition"
+                                                        }
+                                           }
+                                       ],
+                           "metadata":  {
+                                            "icon":  "n241yslto644cv8k"
+                                        }
+                       },
+    "pledge+alnitak":  {
+                           "title":  "§dPledge to: §6Alnitak",
+                           "description":  "§7ถวายสัตย์ปฏิญาณพลังแห่ง §5Orion §7ต่อดวงดาว Alnitak เพื่อรับพรแห่งเปลวเพลิง\n \n§f縷§6 +10 §7Fire Power\n \n§f鹿 §6Alnitak\u0027s Gift\n§7เพิ่มความเสียหายของสกิลที่ร่ายจากตำราเวท §6Alnitak\u0027s Might§7",
+                           "size":  1.5,
+                           "frame":  {
+                                         "type":  "texture",
+                                         "data":  {
+                                                      "unlocked":  "prominent_talents:textures/frames/diamond_selected.png",
+                                                      "available":  "prominent_talents:textures/frames/diamond.png"
+                                                  }
+                                     },
+                           "icon":  {
+                                        "type":  "texture",
+                                        "data":  {
+                                                     "texture":  "prominent:textures/item/artifacts/orion/star_s4.png"
+                                                 }
+                                    },
+                           "rewards":  [
+                                           {
+                                               "type":  "puffish_skills:attribute",
+                                               "data":  {
+                                                            "attribute":  "spell_power:fire",
+                                                            "value":  10,
+                                                            "operation":  "addition"
+                                                        }
+                                           },
+                                           {
+                                               "type":  "puffish_skills:attribute",
+                                               "data":  {
+                                                            "attribute":  "prominent:artifact_phase",
+                                                            "value":  4,
+                                                            "operation":  "addition"
+                                                        }
+                                           }
+                                       ],
+                           "metadata":  {
+                                            "icon":  "n241yslto644cv8k"
+                                        }
+                       },
+    "nebula-horsehead":  {
+                             "title":  "§f鹿 §cMight of the Horsehead Nebula",
+                             "description":  "§5Orion §7และสกิลธนูของคุณจะสร้างความเสียหายเพิ่มขึ้นขณะขี่ม้าหรือสัตว์ขี่ในตำนาน Nightmare\n \n§f凌 §2+20% §7Ranged Damage while mounted",
+                             "size":  1,
+                             "frame":  {
+                                           "type":  "texture",
+                                           "data":  {
+                                                        "unlocked":  "prominent_talents:textures/frames/diamond_selected.png",
+                                                        "available":  "prominent_talents:textures/frames/diamond.png"
+                                                    }
+                                       },
+                             "icon":  {
+                                          "type":  "texture",
+                                          "data":  {
+                                                       "texture":  "prominent:textures/item/artifacts/orion/star_s1.png"
+                                                   }
+                                      },
+                             "rewards":  [
+
+                                         ],
+                             "metadata":  {
+                                              "icon":  "ym2jddo77nhmeb1n"
+                                          }
+                         },
+    "nebula-orion":  {
+                         "title":  "§f鹿 §dStrength of the Orion Nebula",
+                         "description":  "§7สายสัมพันธ์ของคุณกับ §5Orion §7แน่นแฟ้นขึ้น ทำให้ลูกธนูที่ยิงออกมามีความเร็วพุ่งสูงขึ้น แลกกับความเร็วในการง้างสายที่ช้าลง\n \n§f凌 §2+5% §7Arrow Velocity\n§f凌 §2-10% §7Draw Speed",
+                         "size":  1,
+                         "frame":  {
+                                       "type":  "texture",
+                                       "data":  {
+                                                    "unlocked":  "prominent_talents:textures/frames/diamond_selected.png",
+                                                    "available":  "prominent_talents:textures/frames/diamond.png"
+                                                }
+                                   },
+                         "icon":  {
+                                      "type":  "texture",
+                                      "data":  {
+                                                   "texture":  "prominent:textures/item/artifacts/orion/star_s1.png"
+                                               }
+                                  },
+                         "rewards":  [
+                                         {
+                                             "type":  "puffish_skills:attribute",
+                                             "data":  {
+                                                          "attribute":  "zenith_attributes:arrow_velocity",
+                                                          "value":  0.05,
+                                                          "operation":  "multiply_base"
+                                                      }
+                                         },
+                                         {
+                                             "type":  "puffish_skills:attribute",
+                                             "data":  {
+                                                          "attribute":  "ranged_weapon:haste",
+                                                          "value":  -0.1,
+                                                          "operation":  "multiply_base"
+                                                      }
+                                         }
+                                     ],
+                         "metadata":  {
+                                          "icon":  "we3zt8lq8rng3p2h"
+                                      }
+                     },
+    "nebula-casper":  {
+                          "title":  "§f鹿 §dCasper the Friendly Ghost",
+                          "description":  "§7สกิลติดตัว Focus Zone จะสามารถทำงานได้เมื่อใช้สกิลต่อไปนี้ร่วมกับธนู §5Orion§7:\n \n§7- §bCrystal Arrow §8(Mintaka\u0027s Fright)\n§7- §cChoking Gas §8(Alnilam\u0027s Sight)\n§7- §6Pin Down §8(Alnitak\u0027s Might)§7\n \n§cRequired Talent: §7Focus Zone",
+                          "size":  1,
+                          "frame":  {
+                                        "type":  "texture",
+                                        "data":  {
+                                                     "unlocked":  "prominent_talents:textures/frames/diamond_selected.png",
+                                                     "available":  "prominent_talents:textures/frames/diamond.png"
+                                                 }
+                                    },
+                          "icon":  {
+                                       "type":  "texture",
+                                       "data":  {
+                                                    "texture":  "prominent:textures/item/artifacts/orion/star_s1.png"
+                                                }
+                                   },
+                          "rewards":  [
+
+                                      ],
+                          "metadata":  {
+                                           "icon":  "we3zt8lq8rng3p2h"
+                                       }
+                      }
+}

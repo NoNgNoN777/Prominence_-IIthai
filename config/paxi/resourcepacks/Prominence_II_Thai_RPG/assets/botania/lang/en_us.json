@@ -1,0 +1,8 @@
+{
+    "effect.botania.allure.description":  "เพิ่มความเร็วในการตกปลาเป็น 2 เท่า",
+    "effect.botania.bloodthirst.description":  "ทำให้มอนสเตอร์ดุร้ายสามารถเกิดได้ในรัศมี 64 บล็อกโดยไม่สนใจเงื่อนไขการเกิด",
+    "effect.botania.clear.description":  "ล้างเอฟเฟกต์สถานะทั้งหมด ทั้งด้านบวกและด้านลบ",
+    "effect.botania.emptiness.description":  "ป้องกันการเกิดตามธรรมชาติของมอนสเตอร์ในรัศมี 128 บล็อก",
+    "effect.botania.feather_feet.description":  "ป้องกันความเสียหายจากการตกจากที่สูงอย่างสมบูรณ์",
+    "effect.botania.soul_cross.description":  "ฟื้นฟูพลังชีวิตเมื่อสังหารมอนสเตอร์"
+}

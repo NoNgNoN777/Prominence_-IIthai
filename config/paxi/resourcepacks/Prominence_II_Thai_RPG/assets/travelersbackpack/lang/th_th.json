@@ -1,0 +1,10 @@
+{
+    "key.travelersbackpack.ability":  "เปิด/ปิด ความสามารถพิเศษของกระเป๋า",
+    "key.travelersbackpack.toggle_upgrade_0":  "เปิด/ปิด อัปเกรดในช่องที่ 1",
+    "key.travelersbackpack.toggle_upgrade_1":  "เปิด/ปิด อัปเกรดในช่องที่ 2",
+    "key.travelersbackpack.toggle_upgrade_2":  "เปิด/ปิด อัปเกรดในช่องที่ 3",
+    "key.travelersbackpack.open_backpack":  "เปิดกระเป๋าสะพายหลัง",
+    "tooltip.travelersbackpack.special_ability":  "ความสามารถพิเศษ:",
+    "tooltip.travelersbackpack.ability_disabled":  "ความสามารถพิเศษ: ปิดใช้งาน",
+    "tooltip.travelersbackpack.ability_enabled":  "ความสามารถพิเศษ: เปิดใช้งาน"
+}

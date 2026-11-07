@@ -1,0 +1,14 @@
+{
+    "enchantment.obscure_api.distance.desc":  "เพิ่มรัศมีวงโคจรของกระสุนเวท",
+    "enchantment.obscure_api.distance.description":  "เพิ่มรัศมีวงโคจรของกระสุนเวท",
+    "enchantment.obscure_api.fast_spin.desc":  "เพิ่มความเร็วในการหมุนบินของกระสุนเวท",
+    "enchantment.obscure_api.fast_spin.description":  "เพิ่มความเร็วในการหมุนบินของกระสุนเวท",
+    "enchantment.obscure_api.mirror.desc":  "แยกร่างกระสุนเวทเพิ่มขึ้น แต่กระสุนแต่ละลูกจะสร้างความเสียหายเพียง 50%",
+    "enchantment.obscure_api.mirror.description":  "แยกร่างกระสุนเวทเพิ่มขึ้น แต่กระสุนแต่ละลูกจะสร้างความเสียหายเพียง 50%",
+    "effect.obscure_api.fury.desc":  "แต่ละระดับจะเพิ่มพลังของสกิลประจำคลาสขึ้น 10%",
+    "effect.obscure_api.fury.description":  "แต่ละระดับจะเพิ่มพลังของสกิลประจำคลาสขึ้น 10%",
+    "effect.obscure_api.knowledge.desc":  "แสดงข้อมูลลับของไอเทมบางชิ้นใน Tooltip",
+    "effect.obscure_api.knowledge.description":  "แสดงข้อมูลลับของไอเทมบางชิ้นใน Tooltip",
+    "effect.obscure_api.rush.desc":  "แต่ละระดับจะลดคูลดาวน์ของสกิลประจำคลาสลง 10%",
+    "effect.obscure_api.rush.description":  "แต่ละระดับจะลดคูลดาวน์ของสกิลประจำคลาสลง 10%"
+}

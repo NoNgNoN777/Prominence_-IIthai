@@ -1,0 +1,7 @@
+{
+    "enchantment.supplementaries.lumisene_fire_aspect.desc":  "สร้างความเสียหายเพลิง Lumisene เพิ่มเติมเมื่อใช้โจมตีมอนสเตอร์",
+    "enchantment.supplementaries.lumisene_flame.desc":  "ลูกธนูที่ยิงจากคันธนูจะสร้างความเสียหายเพลิง Lumisene เพิ่มเติม",
+    "enchantment.supplementaries.stasis.desc":  "กระสุนของหนังสติ๊ก (Slingshot) จะไม่ได้รับผลกระทบจากแรงโน้มถ่วง",
+    "effect.supplementaries.overencumbered.description":  "แบกน้ำหนักเกิน ไม่สามารถวิ่งได้ ระดับที่สูงขึ้นจะลดความสูงในการกระโดดและความเร็วเดิน",
+    "effect.supplementaries.flammable.description":  "ติดไฟนานขึ้นและทิ้งรอยเพลิงลุกไหม้ตามทางที่เดิน"
+}

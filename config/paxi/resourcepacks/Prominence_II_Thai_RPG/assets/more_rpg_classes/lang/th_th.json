@@ -1,0 +1,15 @@
+{
+    "effect.more_rpg_classes.molten_armor.description":  "ลดเกราะ Armor, Armor Toughness และสร้างความเสียหายใส่เป้าหมายหากเป้าหมายสวมใส่เกราะ",
+    "effect.more_rpg_classes.stun.description":  "ไม่สามารถเคลื่อนที่ โจมตี หรือกระโดดได้ (มึนงง)",
+    "effect.more_rpg_classes.frozen_solid.description":  "ถูกแช่แข็งเป็นหิน ไม่สามารถขยับตัวได้ และจะโดนดาเมจแรงขึ้นหากถูกโจมตีระหว่างนี้",
+    "effect.more_rpg_classes.fear.description":  "ลดพลังโจมตีของเป้าหมายลงจากความหวาดกลัว",
+    "effect.more_rpg_classes.collected_soul.description":  "เพิ่ม Soul Spell Power ต่อสแต็ก",
+    "effect.more_rpg_classes.grievous_wounds.description":  "ลดการฟื้นฟูเลือดและเพิ่มความเสียหายที่ได้รับ",
+    "effect.more_rpg_classes.frosted.description":  "ลดความเร็วในการเคลื่อนที่ลง",
+    "effect.more_rpg_classes.bleeding.description":  "สร้างความเสียหายต่อเนื่องตามเวลาจากบาดแผลเลือดออก",
+    "advancements.more_rpg_content.root.description":  "สำรวจเส้นทางสายอาชีพที่หลากหลายที่คุณสามารถเลือกเดินได้!",
+    "enchantment.more_rpg_classes.elemental.desc":  "เพิ่มความเสียหายเวทมนตร์ธาตุทุกชนิดที่คุณสร้าง",
+    "enchantment.more_rpg_classes.air_mastery.desc":  "เพิ่มความเสียหายเวทมนตร์ธาตุลมที่คุณสร้าง",
+    "enchantment.more_rpg_classes.earth_mastery.desc":  "เพิ่มความเสียหายเวทมนตร์ธาตุดินที่คุณสร้าง",
+    "enchantment.more_rpg_classes.water_mastery.desc":  "เพิ่มความเสียหายเวทมนตร์ธาตุน้ำที่คุณสร้าง"
+}

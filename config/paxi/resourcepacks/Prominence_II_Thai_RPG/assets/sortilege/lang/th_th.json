@@ -1,0 +1,20 @@
+{
+    "enchantment.sortilege.potency.desc":  "เพิ่มพลังโจมตีของคทา (Staff)",
+    "enchantment.sortilege.stability.desc":  "เพิ่มระยะการโจมตีของคทา (Staff)",
+    "enchantment.sortilege.chaining.desc":  "เพิ่มการยิงทะลวงของคทา (Staff)",
+    "enchantment.sortilege.wisdom.desc":  "ลดค่า EXP ที่ใช้ในการร่ายคทา",
+    "enchantment.sortilege.push.desc":  "ผลักศัตรูที่ถูกลำแสงของคทายิงโดนให้พุ่งไปตามทิศทางลำแสง",
+    "enchantment.sortilege.pull.desc":  "ดึงดูดศัตรูที่ถูกลำแสงของคทายิงโดนเข้ามาตามทิศทางลำแสง",
+    "enchantment.sortilege.focus.desc":  "ลดคูลดาวน์ของคทา",
+    "enchantment.sortilege.brazier.desc":  "จุดไฟเผาศัตรูที่ถูกลำแสงของคทายิงโดน",
+    "enchantment.sortilege.blizzard.desc":  "แช่แข็งศัตรูที่ถูกลำแสงของคทายิงโดน",
+    "enchantment.sortilege.blast.desc":  "ทำให้ลำแสงของคทาระเบิดออกเมื่อกระทบเป้าหมาย",
+    "enchantment.sortilege.blitz.desc":  "ช็อตสายฟ้าใส่ศัตรูที่ถูกคทายิงโดน",
+    "enchantment.sortilege.blessing.desc":  "สร้างความเสียหายรุนแรงใส่มอนสเตอร์ Undead และฮีลฟื้นฟูสิ่งมีชีวิต",
+    "enchantment.sortilege.bonk.desc":  "ทำให้คทาสามารถใช้ฟาดโจมตีระยะประชิดได้",
+    "enchantment.sortilege.ignorance_curse.desc":  "คำสาป: ทำให้คทาต้องใช้เลเวล EXP ในการร่ายเวท",
+    "enchantment.sortilege.magic_protection.desc":  "ลดความเสียหายที่ได้รับจากเวทมนตร์",
+    "enchantment.sortilege.arcane.desc":  "แปลงความเสียหายที่ทำได้ทั้งหมดให้เป็นประเภทความเสียหายเวทมนตร์",
+    "enchantment.sortilege.soulbound.desc":  "ไอเทมยังคงอยู่กับตัวหลังความตาย",
+    "enchantment.sortilege.storytelling_curse.desc":  "คำสาป: ป้องกันไม่ให้ไอเทมชิ้นนี้สูญหายไปไม่ว่าในกรณีใดๆ"
+}

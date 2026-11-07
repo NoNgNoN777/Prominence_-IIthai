@@ -1,0 +1,10 @@
+{
+    "enchantment.spell_power.spell_power.desc":  "เพิ่มความเสียหายเวทมนตร์ทุกชนิดที่คุณสร้าง",
+    "enchantment.spell_power.soulfrost.desc":  "เพิ่มความเสียหายเวทมนตร์ธาตุ Soul และ Frost ที่คุณสร้าง",
+    "enchantment.spell_power.sunfire.desc":  "เพิ่มความเสียหายเวทมนตร์ธาตุ Arcane และ Fire ที่คุณสร้าง",
+    "enchantment.spell_power.energize.desc":  "เพิ่มพลังการฮีลและความเสียหายเวทมนตร์สายฟ้า (Lightning) ที่คุณสร้าง",
+    "enchantment.spell_power.critical_chance.desc":  "เพิ่มโอกาสติดคริติคอลของเวทมนตร์",
+    "enchantment.spell_power.critical_damage.desc":  "เพิ่มความเสียหายและพลังฮีลคริติคอลของเวทมนตร์",
+    "enchantment.spell_power.haste.desc":  "เพิ่มความเร็วในการร่ายเวทมนตร์ของคุณ",
+    "enchantment.spell_power.magic_protection.desc":  "ลดความเสียหายที่ได้รับจากเวทมนตร์ของศัตรู"
+}

@@ -1,0 +1,12 @@
+{
+    "spell.archers.power_shot.description":  "สกิลติดตัว (Passive): ลูกธนูจะแปะสถานะ Hunter\u0027s Mark ใส่เป้าหมายเป็นเวลา {effect_duration} วินาที ทำให้เป้าหมายได้รับความเสียหายเพิ่มขึ้น 5%% สะสมได้สูงสุด {effect_amplifier} ขั้น",
+    "spell.archers.entangling_roots.description":  "เสกรากไม้ให้งอกเงยขึ้นมาจากพื้นดินในบริเวณใกล้เคียง ลดความเร็วเคลื่อนที่ของศัตรูเป็นเวลา {cloud_duration} วินาที",
+    "spell.archers.barrage.description":  "ระดมยิงลูกธนูหลายดอกติดต่อกันอย่างรวดเร็ว",
+    "spell.archers.magic_arrow.description":  "ยิงลูกธนูอาบเวทมนตร์ทะลุผ่านศัตรูทุกตัวในเส้นทาง สร้างความเสียหาย {damage} หน่วย แก่แต่ละเป้าหมาย",
+    "effect.archers.hunters_mark.description":  "เพิ่มความเสียหายที่ได้รับจากทุกแหล่งขึ้น 5%",
+    "effect.archers.entangling_roots.description":  "ลดความเร็วในการเคลื่อนที่",
+    "spell.archers.power_shot.name":  "§fPower Shot",
+    "spell.archers.entangling_roots.name":  "§fEntangling Roots",
+    "spell.archers.barrage.name":  "§fBarrage",
+    "spell.archers.magic_arrow.name":  "§fMagic Arrow"
+}

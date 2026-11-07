@@ -1,0 +1,101 @@
+{
+    "fyrdmg+5":  {
+                     "title":  "§f弄 §6+2% §7Damage dealt by §cA\u0027zhar§7 per Broken Soul stack",
+                     "frame":  {
+                                   "type":  "texture",
+                                   "data":  {
+                                                "unlocked":  "prominent_talents:textures/frames/diamond_selected.png",
+                                                "available":  "prominent_talents:textures/frames/diamond.png"
+                                            }
+                               },
+                     "icon":  {
+                                  "type":  "texture",
+                                  "data":  {
+                                               "texture":  "simplyskills:textures/icons/prom_compat/fire.png"
+                                           }
+                              },
+                     "rewards":  [
+                                     {
+                                         "type":  "puffish_skills:attribute",
+                                         "data":  {
+                                                      "attribute":  "prominent:artifact_damage",
+                                                      "value":  0.02,
+                                                      "operation":  "addition"
+                                                  }
+                                     }
+                                 ],
+                     "editor-color":  "#ff00a6",
+                     "metadata":  {
+                                      "icon":  "vt5q3v2tr9v4ow8e"
+                                  }
+                 },
+    "maxhealth+5":  {
+                        "title":  "§f牢 §c+3% §7Maximum Health",
+                        "frame":  {
+                                      "type":  "texture",
+                                      "data":  {
+                                                   "unlocked":  "prominent_talents:textures/frames/diamond_selected.png",
+                                                   "available":  "prominent_talents:textures/frames/diamond.png"
+                                               }
+                                  },
+                        "icon":  {
+                                     "type":  "texture",
+                                     "data":  {
+                                                  "texture":  "simplyskills:textures/icons/prom_compat/health.png"
+                                              }
+                                 },
+                        "rewards":  [
+                                        {
+                                            "type":  "puffish_skills:attribute",
+                                            "data":  {
+                                                         "attribute":  "generic.max_health",
+                                                         "value":  0.03,
+                                                         "operation":  "multiply_base"
+                                                     }
+                                        }
+                                    ],
+                        "editor-color":  "#ff00a6",
+                        "metadata":  {
+                                         "icon":  "vt5q3v2tr9v4ow8e"
+                                     }
+                    },
+    "infusion_corruption":  {
+                                "title":  "§f鹿 §9Void\u0027s Hunger",
+                                "description":  "§7หลอมรวมพลังปิศาจแห่ง §cA\u0027zhar §7เข้ากับค่า Corruption ทำให้สร้างความเสียหายรุนแรงยิ่งขึ้น\n§7จงอย่าไปฟังเสียงกระซิบเหล่านั้น\n \n§f弄 §6+10% §cA\u0027zhar §7Damage per Broken Soul stack\n§fꦘ §9+20§7 Corruption",
+                                "size":  1.5,
+                                "frame":  {
+                                              "type":  "texture",
+                                              "data":  {
+                                                           "unlocked":  "prominent_talents:textures/frames/diamond_selected.png",
+                                                           "available":  "prominent_talents:textures/frames/diamond.png"
+                                                       }
+                                          },
+                                "icon":  {
+                                             "type":  "texture",
+                                             "data":  {
+                                                          "texture":  "eldritch_end:textures/icon/corruption.png"
+                                                      }
+                                         },
+                                "rewards":  [
+                                                {
+                                                    "type":  "puffish_skills:attribute",
+                                                    "data":  {
+                                                                 "attribute":  "prominent:artifact_damage",
+                                                                 "value":  0.1,
+                                                                 "operation":  "addition"
+                                                             }
+                                                },
+                                                {
+                                                    "type":  "puffish_skills:attribute",
+                                                    "data":  {
+                                                                 "attribute":  "eldritch_end:corruption",
+                                                                 "value":  20,
+                                                                 "operation":  "addition"
+                                                             }
+                                                }
+                                            ],
+                                "metadata":  {
+                                                 "icon":  "eqvex0gqoc0c3krb"
+                                             }
+                            }
+}

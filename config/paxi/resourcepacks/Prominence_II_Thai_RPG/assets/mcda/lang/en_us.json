@@ -1,0 +1,21 @@
+{
+    "enchantment.mcda.bag_of_souls.desc":  "เพิ่มปริมาณค่าประสบการณ์ (EXP) ที่ได้รับตามระดับของเอนชานต์",
+    "enchantment.mcda.burning.desc":  "สะท้อนความเสียหายไฟกลับไปยังผู้โจมตี (หนามเพลิง)",
+    "enchantment.mcda.chilling.desc":  "ทำให้ผู้ที่โจมตีเราติดสถานะ Slowness และ Mining Fatigue",
+    "enchantment.mcda.cowardice.desc":  "เมื่อพลังชีวิตเต็ม จะได้รับบัฟ Strength",
+    "enchantment.mcda.death_barter.desc":  "เมื่อพลังชีวิตหมดลง สามารถจ่าย Emerald เพื่อรอดชีวิตจากความตายได้",
+    "enchantment.mcda.deflect.desc":  "เมื่อถูกยิงด้วยลูกธนู มีโอกาสที่ลูกธนูจะสร้างความเสียหายเพียงครึ่งเดียวและกระเด็นสะท้อนออกไป",
+    "enchantment.mcda.fire_focus.desc":  "เพิ่มความเสียหายจากการโจมตีด้วยไฟ โดยเฉพาะ Fire Aspect",
+    "enchantment.mcda.fire_trail.desc":  "ทิ้งรอยทางเพลิงลุกไหม้ตามหลังผู้เล่นขณะเคลื่อนที่",
+    "enchantment.mcda.food_reserves.desc":  "เมื่อดื่มโพชั่น Instant Health จะได้รับอาหารมาไว้ในกระเป๋า",
+    "enchantment.mcda.frenzied.desc":  "เมื่อพลังชีวิตลดต่ำกว่า 50% จะได้รับบัฟ Haste",
+    "enchantment.mcda.heal_allies.desc":  "ฟื้นฟูพลังชีวิตให้พันธมิตร (ชาวบ้าน สัตว์เลี้ยง โกเลม และเพื่อนร่วมทีม) เมื่อเราได้รับความเสียหาย",
+    "enchantment.mcda.lucky_explorer.desc":  "มีโอกาสสุ่มดรอป Emerald ทุกๆ บล็อกที่ออกสำรวจ",
+    "enchantment.mcda.poison_focus.desc":  "เพิ่มความเสียหายจากการโจมตีด้วยพิษ",
+    "enchantment.mcda.potion_barrier.desc":  "เมื่อดื่มโพชั่น Instant Health จะได้รับบัฟ Resistance ป้องกันความเสียหายอย่างมาก",
+    "enchantment.mcda.reckless.desc":  "ลดพลังชีวิตสูงสุดลง 60% แต่ได้รับบัฟ Strength รุนแรงตามระดับของเอนชานต์",
+    "enchantment.mcda.recycler.desc":  "เมื่อถูกยิงด้วยลูกธนู มีโอกาสจับหรือเก็บลูกธนูดอกนั้นกลับมาเป็นลูกธนูของเรา",
+    "enchantment.mcda.snowball.desc":  "เมื่อถูกรุมโจมตีโดยศัตรู 2 ตัวขึ้นไป จะปาบอลหิมะเวทมนตร์ใส่ศัตรูตัวหนึ่งเพื่อผลักกระเด็นออกไป",
+    "enchantment.mcda.surprise_gift.desc":  "เมื่อดื่มโพชั่น Instant Health มีโอกาสได้รับโพชั่นแบบสุ่มเพิ่มอีก 1 ขวด",
+    "enchantment.mcda.swiftfooted.desc":  "เมื่อกระโดด จะได้รับบัฟเพิ่มความเร็วในการเคลื่อนที่เป็นเวลาสั้นๆ"
+}

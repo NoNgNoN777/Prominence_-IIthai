@@ -1,0 +1,17 @@
+{
+    "effect.vinery.armor_effect.description":  "เพิ่มค่า Armor และ Armor Toughness",
+    "effect.vinery.climbing_effect.description":  "ทำให้สามารถปีนป่ายกำแพงได้เหมือนเถาวัลย์",
+    "effect.vinery.creeper_effect.description":  "ทำให้ผู้เล่นเกิดการระเบิดรอบตัวหลังจากผ่านไปสองสามวินาที! ตูม!",
+    "effect.vinery.double_jump.description":  "ทำให้สามารถกระโดดสองจังหวะกลางอากาศได้",
+    "effect.vinery.experience_effect.description":  "เพิ่มปริมาณค่าประสบการณ์ (EXP) ที่ได้รับ",
+    "effect.vinery.frosty_armor.description":  "เพิ่มเกราะและพลังโจมตี แต่ลดความเร็วในการเคลื่อนที่",
+    "effect.vinery.jellie.description":  "มอบคุณประโยชน์มหาศาลคล้ายผลของแอปเปิ้ลทองคำในระดับที่สูงกว่า",
+    "effect.vinery.lava_walker.description":  "ทำให้สามารถเดินบนลาวาได้โดยไม่ตกลงไป",
+    "effect.vinery.luck_effect.description":  "เพิ่มค่าโชคลาภ (Luck)",
+    "effect.vinery.magnet.description":  "ดึงดูดไอเทมที่ตกอยู่บนพื้นในรัศมีรอบตัวเข้ามาหาผู้เล่น",
+    "effect.vinery.party_effect.description":  "จุดพลุดอกไม้ไฟสร้างความเสียหายเมื่อพุ่งชนศัตรู",
+    "effect.vinery.resistance_effect.description":  "เพิ่มค่า Armor Toughness และมอบบัฟ Resistance",
+    "effect.vinery.teleport.description":  "เทเลพอร์ตผู้เล่นพุ่งไปข้างหน้า",
+    "effect.vinery.water_walker.description":  "ทำให้สามารถเดินบนผิวน้ำได้",
+    "effect.vinery.health_effect.description":  "เพิ่มพลังชีวิตสูงสุดตลอดระยะเวลาของเอฟเฟกต์นี้"
+}

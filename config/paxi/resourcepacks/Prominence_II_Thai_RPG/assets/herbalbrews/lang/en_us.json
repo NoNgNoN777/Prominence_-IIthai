@@ -1,0 +1,9 @@
+{
+    "effect.herbalbrews.balanced.description":  "มอบเกราะหัวใจดูดซับ (Absorption) ให้ผู้เล่นโดยรอบ",
+    "effect.herbalbrews.tough.description":  "มอบ Resistance และ Regeneration เมื่อเลือดต่ำให้ผู้เล่นโดยรอบ",
+    "effect.herbalbrews.bonding.description":  "เพิ่มเกราะ Absorption และอัตราการฟื้นฟูพลังชีวิตให้ผู้เล่นโดยรอบ",
+    "effect.herbalbrews.feral.description":  "เพิ่มพลังโจมตีและเกราะป้องกันให้ผู้เล่นโดยรอบ",
+    "effect.herbalbrews.fortune.description":  "เพิ่มโชคลาภในการหาไอเทมและของดรอปให้ผู้เล่นโดยรอบ",
+    "effect.herbalbrews.lifeleech.description":  "ดูดพลังชีวิตจากศัตรูมาฟื้นฟูให้ผู้เล่น",
+    "effect.herbalbrews.deeprush.description":  "เร่งความเร็วในการขุดตามระดับความลึกใต้ดินให้ผู้เล่นโดยรอบ"
+}
