@@ -1,5 +1,6 @@
 {
     "enchantment.farmersdelight.backstabbing.desc":  "เพิ่มความเสียหายอย่างรุนแรงเมื่อโจมตีศัตรูจากด้านหลัง",
     "effect.farmersdelight.nourishment.description":  "ป้องกันไม่ให้หลอดอาหารลดลง ยกเว้นเมื่อใช้ค่าความอิ่มในการฮีลเลือด",
-    "effect.farmersdelight.comfort.description":  "ฟื้นฟูพลังชีวิตตามธรรมชาติอย่างต่อเนื่อง ไม่ว่าคุณจะหิวหรือไม่ก็ตาม"
+    "effect.farmersdelight.comfort.description":  "ฟื้นฟูพลังชีวิตตามธรรมชาติอย่างต่อเนื่อง ไม่ว่าคุณจะหิวหรือไม่ก็ตาม",
+    "farmersdelight.tooltip.cooking_pot.empty":  "ว่าง"
 }

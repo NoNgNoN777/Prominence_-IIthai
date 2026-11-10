@@ -58,5 +58,7 @@
     "cta.item.fallen_icon_lord_soul":  "ดวงวิญญาณบอส Fallen Lord Soul",
     "cta.item.day_stalker_lord_soul":  "ดวงวิญญาณบอส Stalker Lord Soul",
     "cta.item.night_prowler_lord_soul":  "ดวงวิญญาณบอส Prowler Lord Soul",
-    "cta.item.black_ocelot_pelt":  "มีโอกาส 25% ที่จะดรอปจากแมวป่า (Ocelot) ที่พบได้ในไบโอมป่าดงดิบ"
+    "cta.item.black_ocelot_pelt":  "มีโอกาส 25% ที่จะดรอปจากแมวป่า (Ocelot) ที่พบได้ในไบโอมป่าดงดิบ",
+    "customtooltips.tooltip_list_screen.sort_order":  "ลำดับการเรียง",
+    "customtooltips.tooltip_edit_screen.background_type.gradient":  "ไล่ระดับ"
 }

@@ -10,5 +10,6 @@
     "bettertrims.effect.lapis.tooltip":  "ได้รับค่าประสบการณ์ (EXP) เพิ่มขึ้น",
     "bettertrims.effect.netherite.tooltip":  "ต้านทานการกระเด็นถอยหลัง (Knockback Resistance)",
     "bettertrims.effect.quartz.tooltip":  "เพิ่มความเร็วในการเคลื่อนที่",
-    "bettertrims.effect.redstone.tooltip":  "ขยายระยะเวลาคงอยู่ของบัฟโพชั่นให้นานขึ้น"
+    "bettertrims.effect.redstone.tooltip":  "ขยายระยะเวลาคงอยู่ของบัฟโพชั่นให้นานขึ้น",
+    "bettertrims.effect.glowstone_dust.tooltip":  "เอฟเฟกต์โพชั่นส่งผลรุนแรงขึ้น"
 }

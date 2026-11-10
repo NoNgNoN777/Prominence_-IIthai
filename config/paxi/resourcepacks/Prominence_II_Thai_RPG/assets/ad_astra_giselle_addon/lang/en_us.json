@@ -2,5 +2,7 @@
     "enchantment.ad_astra_giselle_addon.space_breathing.desc":  "สามารถหายใจในมิติของ Ad Astra ได้\nจำเป็นต้องมี \u0027Oxygen Can\u0027 ในช่องเก็บของ",
     "enchantment.ad_astra_giselle_addon.space_fire_proof.desc":  "ป้องกันตัวละครติดไฟในมิติของ Ad Astra\nใช้พลังงานหรือความทนทาน",
     "enchantment.ad_astra_giselle_addon.acid_rain_proof.desc":  "ป้องกันความเสียหายจากฝนกรดในมิติของ Ad Astra\nใช้พลังงานหรือความทนทาน",
-    "enchantment.ad_astra_giselle_addon.gravity_normalizing.desc":  "ปรับแรงโน้มถ่วงให้ปกติเหมือนมิติ Overworld ในมิติของ Ad Astra\nใช้พลังงานหรือความทนทาน"
+    "enchantment.ad_astra_giselle_addon.gravity_normalizing.desc":  "ปรับแรงโน้มถ่วงให้ปกติเหมือนมิติ Overworld ในมิติของ Ad Astra\nใช้พลังงานหรือความทนทาน",
+    "pneumaticcraft.gui.tab.info.item.armor.generic.ad_astra_giselle_addon.space_breathingUpgrade":  "สามารถหายใจในมิติของ Ad Astra ได้\nจำเป็นต้องมี 'Oxygen Can' ในช่องเก็บของ",
+    "modifier.ad_astra_giselle_addon.space_breathing.description":  "สามารถหายใจในมิติของ Ad Astra ได้\nจำเป็นต้องมี 'Oxygen Can' ในช่องเก็บของ"
 }
