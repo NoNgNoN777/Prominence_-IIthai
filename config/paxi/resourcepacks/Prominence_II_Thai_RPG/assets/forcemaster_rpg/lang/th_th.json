@@ -2,7 +2,7 @@
     "spell.forcemaster_rpg.stonehand.description":  "มอบเอฟเฟกต์ Stonehand ให้แก่ผู้ร่ายเป็นเวลา {effect_duration} วินาที มีโอกาสทำให้เป้าหมายติดสถานะ Stun เมื่อโจมตีด้วยสนับมือ",
     "spell.forcemaster_rpg.asal.description":  "หมัดรวบรวมพลังปราณขั้นสุดยอด สร้างความเสียหาย {damage_1} Arcane Damage และ {damage_2} Physical Damage แต่ทำให้ผู้ร่ายเหนื่อยล้าชั่วขณะ",
     "spell.forcemaster_rpg.barq_esna.description":  "ทำให้เป้าหมายเปราะบางต่อความเสียหาย Arcane Damage ลดพลังโจมตีของเป้าหมาย และเพิ่มโอกาสคริติคอลเมื่อโจมตีเป้าหมายนั้น",
-    "spell.forcemaster_rpg.burstcrack.description":  "ทุบพื้นดินอย่างรุนแรง สร้างความเสียหาย {damage_1} Arcane Damage และ {damage_2} Physical Damage พร้อมงัดศัตรูให้ลอยขึ้นฟ้า",
+    "spell.forcemaster_rpg.burstcrack.description":  "ทุบพื้นดินอย่างรุนแรง สร้างความเสียหาย {damage} Physical Damage และงัดศัตรูให้ลอยขึ้น ผู้ใช้จะได้รับ Soul Overflow 5 ระดับทันที",
     "spell.forcemaster_rpg.belial_smashing.description":  "พุ่งทะยานไปข้างหน้า ชนกระแทกศัตรูให้ลอยขึ้นและสร้างความเสียหาย {damage_1} Arcane Damage และ {damage_2} Physical Damage",
     "spell.forcemaster_rpg.sonichand.description":  "ระดมชกอากาศอย่างต่อเนื่องสร้างคลื่นสุญญากาศ สร้างความเสียหาย {damage_1} Arcane Damage และ {damage_2} Physical Damage",
     "spell.forcemaster_rpg.arcane_blast.description":  "ชาร์จคลื่นพลังยิงออกไปทะลุผ่านเป้าหมายได้ {pierce} ตัว สร้างความเสียหาย {damage} Arcane Damage",
